@@ -4,23 +4,10 @@
 </h1>
 
 <div align="center">
-  <img src="RUTA_A_LA_IMAGEN_DE_TU_MUJER_PROGRAMANDO.png" width="300" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Animated Developer Cat" width="120" />
 </div>
 
-```bash
-janmazon@macbook-42:~$ gcc -Wall -Wextra -Werror profile.c -o janire
-janmazon@macbook-42:~$ ./janire
-
-[⚙️] Booting system... OK.
-[🔍] Loading skills: C, Python, Bash... 100%
-[🧠] Compiling concurrency and pathfinding algorithms... Done.
-
-> Hello, World! 👋 
-> Soy Janire Camarero.
-> Estudiante en 42 School, programadora a bajo nivel y constructora de soluciones.
-> Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22% 
-
-janmazon@macbook-42:~$ _
+<br>
 
 ---
 
