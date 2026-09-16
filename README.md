@@ -40,7 +40,7 @@ Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
 
 🚀 **Highlights:**
 
-* ✅ **21** validated projects
+* ✅ **19** validated projects
 * ⏱️ **668+ hours** of rigorous coursework
 
 <details>
