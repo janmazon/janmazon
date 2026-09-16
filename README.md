@@ -4,36 +4,21 @@
 </h1>
 
 <div align="center">
-  <h2>🎮 PRESS START 🎮</h2>
-  
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <!-- AQUÍ HE CORREGIDO LA RUTA DE TU IMAGEN -->
-        <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg" alt="Janire's Avatar" width="200" style="border-radius: 10px; border: 2px solid #8B5CF6;" />
-      </td>
-      <td>
-        <details open>
-          <summary><b> 🪪 SELECT PLAYER (About Me) </b></summary>
-          <br>
-          <b>Name:</b> Janire Camarero Mazon <br>
-          <b>Class:</b> Software Developer (Level 42) <br>
-          <b>Quest:</b> Dominar C, Python y los misterios de la algoritmia profunda. <br>
-          <b>Current Mission:</b> `Call Me Maybe` (Progress: 22% of Common Core) <br>
-          <b>Contact:</b> <a href="mailto:tuemail@ejemplo.com">Send Raven (Email)</a>
-        </details>
-        <br>
-        <details>
-          <summary><b> 🎒 INVENTORY (Current Focus) </b></summary>
-          <br>
-          🗡️ <b>Primary Weapons:</b> C & Python <br>
-          📜 <b>Skills Unlocked:</b> Artificial Intelligence Algorithms, OOP & Database Architecture <br>
-          🛡️ <b>Base Stats:</b> 21 Validated Projects | 668+ Hours of Gameplay
-        </details>
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg" alt="Janire's Avatar" width="200" style="border-radius: 10px; border: 2px solid #8B5CF6; margin-bottom: 20px;" />
 </div>
+
+<br>
+
+---
+
+## 💫 About Me
+
+* 🎓 **Student at 42 School** 
+* 🐍 **Currently focused on:** C and Python
+* 🧠 **Exploring:** Artificial Intelligence Algorithms, Object-Oriented Programming and Database Architecture
+* 🚀 **Current Project:** `Call Me Maybe` (Progress: 22% of Common Core completed)
+* 📬 **You can reach me on:** 
+  <a href="mailto:janmazon07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 <br>
 
@@ -83,33 +68,24 @@ Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
 
 ---
 
-## 👾 Featured Projects
+## 🧠 Featured Repositories
+
+### 🎓 42 School
+Click any badge below to explore my projects, documentation, notes, and learning resources.
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <a href="https://github.com/janmazon/A-Maze-ing">
-          <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/amazeing.png" alt="A-Maze-ing" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://github.com/janmazon/Fly-in">
-          <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/flyin.png" alt="Fly-in" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://github.com/janmazon/Codexion">
-          <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/codexion.png" alt="Codexion" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="25%">
-        <a href="https://github.com/janmazon/push_swap">
-          <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/otro_proyecto.png" alt="Push_Swap o Call Me Maybe" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/janmazon?tab=repositories">
+    <img src="https://img.shields.io/badge/📝_DOCUMENTATION-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/janmazon?tab=repositories">
+    <img src="https://img.shields.io/badge/🎓_42_PROJECTS-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/janmazon?tab=repositories&q=&type=&language=python">
+    <img src="https://img.shields.io/badge/🐍_42_PYTHON-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/janmazon?tab=repositories&q=&type=&language=c">
+    <img src="https://img.shields.io/badge/💻_42_C-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
+  </a>
 </div>
 
 <br>
@@ -172,13 +148,6 @@ Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
 
 <br>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/janmazon/janmazon/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 ---
 
 ## 🐍 Contribution Snake
