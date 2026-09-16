@@ -22,6 +22,50 @@
 
 ---
 
+## 📊 42 Stats & Curriculum
+
+* 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
+* 📈 **Common Core Completion:** 22% 
+
+Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
+
+🚀 **Highlights:**
+
+* ✅ **21** validated projects
+* ⏱️ **668+ hours** of rigorous coursework
+
+<details>
+<summary>👉 <b>Click to view my 42 Milestones & Projects</b> 👈</summary>
+
+<br>
+
+**💻 Core Projects:**
+* `Codexion` (80H) - Concurrency, Threads & Mutexes
+* `Fly-in` (120H) - Object-Oriented Pathfinding & Graph Algorithms
+* `A-Maze-ing` (50H) - Graphics, UI & Maze Generation
+* `push_swap` (70H) - Data Structures (Stacks) & Optimization
+* `Born2beroot` (50H) - Virtualization & System Administration
+* `Libft`, `ft_printf`, `get_next_line` (180H) - C Standard Library Fundamentals
+
+**🐍 Python Advanced Bootcamp:**
+* 11 Modules Completed (65H total) covering OOP, Data Pipelines, Virtual Environments, Pydantic, and Functional Programming.
+
+</details>
+
+<br>
+
+## 🛠️ Tech Stack & Toolkit
+
+| ⚙️<br>Languages | 🔧<br>Systems | 🧠<br>Concepts | 🛠️<br>Tools |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br><img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white" /> | <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=jupyter&logoColor=white" /><br><img src="https://img.shields.io/badge/Concurrency-0052CC?style=flat-square" /><br><img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
+
+<br>
+
+---
+
+---
+
 ## 🧠 Featured Repositories
 
 ### 🎓 42 School
