@@ -3,41 +3,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=I'm+Janire+Mazon;Software+Developer;42+Student" alt="Typing SVG" />
 </h1>
 
-<br>
-
 <div align="center">
-  <img src="RUTA_A_LA_IMAGEN_DE_TU_MUJER_PROGRAMANDO.png" width="250" />
+  <img src="RUTA_A_LA_IMAGEN_DE_TU_MUJER_PROGRAMANDO.png" width="300" />
 </div>
 
-<div align="center">
-  <h2>🎮 PRESS START 🎮</h2>
-  
-  <table>
-    <tr>
-      <td>
-        <details>
-          <summary><b> 🪪 SELECT PLAYER (About Me) </b></summary>
-          <br>
-          <b>Name:</b> Janire Camarero <br>
-          <b>Class:</b> Software Developer (Level 42) <br>
-          <b>Quest:</b> Dominar C, Python y los misterios de la algoritmia profunda. <br>
-          <b>Current Mission:</b> "Call Me Maybe".
-        </details>
-      </td>
-      <td>
-        <details>
-          <summary><b> 🎒 INVENTORY (Skills) </b></summary>
-          <br>
-          🗡️ C & C++ (Armas principales) <br>
-          📜 Python (Pergaminos de automatización) <br>
-          🛡️ Linux & Bash (Armadura del sistema)
-        </details>
-      </td>
-    </tr>
-  </table>
-</div>
+```bash
+janmazon@macbook-42:~$ gcc -Wall -Wextra -Werror profile.c -o janire
+janmazon@macbook-42:~$ ./janire
 
-<br>
+[⚙️] Booting system... OK.
+[🔍] Loading skills: C, Python, Bash... 100%
+[🧠] Compiling concurrency and pathfinding algorithms... Done.
+
+> Hello, World! 👋 
+> Soy Janire Camarero.
+> Estudiante en 42 School, programadora a bajo nivel y constructora de soluciones.
+> Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22% 
+
+janmazon@macbook-42:~$ _
 
 ---
 
