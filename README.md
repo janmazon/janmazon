@@ -3,8 +3,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=I'm+Janire+Mazon;Software+Developer;42+Student" alt="Typing SVG" />
 </h1>
 
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Animated Developer Cat" width="120" />
+  <img src="RUTA_A_LA_IMAGEN_DE_TU_MUJER_PROGRAMANDO.png" width="250" />
+</div>
+
+<div align="center">
+  <h2>🎮 PRESS START 🎮</h2>
+  
+  <table>
+    <tr>
+      <td>
+        <details>
+          <summary><b> 🪪 SELECT PLAYER (About Me) </b></summary>
+          <br>
+          <b>Name:</b> Janire Camarero <br>
+          <b>Class:</b> Software Developer (Level 42) <br>
+          <b>Quest:</b> Dominar C, Python y los misterios de la algoritmia profunda. <br>
+          <b>Current Mission:</b> "Call Me Maybe".
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary><b> 🎒 INVENTORY (Skills) </b></summary>
+          <br>
+          🗡️ C & C++ (Armas principales) <br>
+          📜 Python (Pergaminos de automatización) <br>
+          🛡️ Linux & Bash (Armadura del sistema)
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
