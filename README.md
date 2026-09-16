@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/janmazon/janmazon/main/TU_IMAGEN.png](https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg)" alt="Janire's Avatar" ...> />
+  <img src="[https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg](https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg)" alt="Janire's Avatar" ...> />
 </div>
 
 <br>
