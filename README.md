@@ -35,10 +35,10 @@ Click any badge below to explore my projects, documentation, notes, and learning
     <img src="https://img.shields.io/badge/🎓_42_PROJECTS-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
   </a>
   <a href="https://github.com/janmazon?tab=repositories&q=&type=&language=python">
-    <img src="https://img.shields.io/badge/🐍_PYTHON_PROJS-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/🐍_42_PYTHON-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
   </a>
   <a href="https://github.com/janmazon?tab=repositories&q=&type=&language=c">
-    <img src="https://img.shields.io/badge/💻_C_PROJECTS-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/💻_42_C-0D1117?style=for-the-badge&logoColor=white&color=0D1117&labelColor=0D1117" />
   </a>
 </div>
 
@@ -52,13 +52,13 @@ Click any badge below to explore my projects, documentation, notes, and learning
   <table>
     <tr>
       <td align="center" width="200">
-        <a href="https://github.com/janmazon?tab=repositories"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f393.svg" width="50" alt="42 School"/><br><b>42 School</b></a>
+        <a href="https://github.com/janmazon?tab=repositories"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="50" alt="42 School" style="filter: invert(100%);"/><br><b>42 School</b></a>
       </td>
       <td align="center" width="200">
-        <a href="https://github.com/janmazon?tab=repositories&q=&type=&language=python"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f40d.svg" width="50" alt="Python"/><br><b>Python</b></a>
+        <a href="https://github.com/janmazon?tab=repositories&q=&type=&language=python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br><b>Python</b></a>
       </td>
       <td align="center" width="200">
-        <a href="https://github.com/janmazon?tab=repositories"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f47e.svg" width="50" alt="Games"/><br><b>Games</b></a>
+        <a href="https://github.com/janmazon?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" alt="Games"/><br><b>Games</b></a>
       </td>
     </tr>
     <tr>
@@ -66,10 +66,10 @@ Click any badge below to explore my projects, documentation, notes, and learning
         <a href="https://github.com/janmazon?tab=repositories&q=&type=&language=c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/><br><b>C</b></a>
       </td>
       <td align="center" width="200">
-        <a href="https://github.com/janmazon?tab=repositories"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f9ee.svg" width="50" alt="Algorithms"/><br><b>Algorithms</b></a>
+        <a href="https://github.com/janmazon?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Algorithms"/><br><b>Algorithms</b></a>
       </td>
       <td align="center" width="200">
-        <a href="https://github.com/janmazon?tab=repositories"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f427.svg" width="50" alt="Unix"/><br><b>Unix / Linux</b></a>
+        <a href="https://github.com/janmazon?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Unix"/><br><b>Unix / Linux</b></a>
       </td>
     </tr>
   </table>
@@ -82,13 +82,13 @@ Click any badge below to explore my projects, documentation, notes, and learning
 ## 🛠 Languages & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 5px; margin-bottom: 5px;" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin-right: 5px; margin-bottom: 5px;" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-right: 5px; margin-bottom: 5px;" />
-  <img src="https://img.shields.io/badge/Bash_Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" style="margin-right: 5px; margin-bottom: 5px;" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="margin-right: 5px; margin-bottom: 5px;" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 5px; margin-bottom: 5px;" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
 </div>
 
 <br>
