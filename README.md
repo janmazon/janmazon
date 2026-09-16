@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Animated Developer Cat" width="120" />
+  <img src="[https://raw.githubusercontent.com/janmazon/janmazon/main/TU_IMAGEN.png](https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg)" alt="Janire's Avatar" ...> />
 </div>
 
 <br>
