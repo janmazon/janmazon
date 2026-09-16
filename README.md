@@ -9,6 +9,8 @@
 
 <br>
 
+---
+
 ## 💫 About Me
 
 * 🎓 **Student at 42 School** 
@@ -61,8 +63,6 @@ Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
 | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br><img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white" /> | <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=jupyter&logoColor=white" /><br><img src="https://img.shields.io/badge/Concurrency-0052CC?style=flat-square" /><br><img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
 
 <br>
-
----
 
 ---
 
