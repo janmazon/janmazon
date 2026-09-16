@@ -3,22 +3,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=I'm+Janire+Mazon;Software+Developer;42+Student" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg" alt="Janire's Avatar" width="200" style="border-radius: 10px; border: 2px solid #8B5CF6; margin-bottom: 20px;" />
-</div>
-
 <br>
 
----
-
-## 💫 About Me
-
-* 🎓 **Student at 42 School** 
-* 🐍 **Currently focused on:** C and Python
-* 🧠 **Exploring:** Artificial Intelligence Algorithms, Object-Oriented Programming and Database Architecture
-* 🚀 **Current Project:** `Call Me Maybe` (Progress: 22% of Common Core completed)
-* 📬 **You can reach me on:** 
-  <a href="mailto:janmazon07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg" alt="Janire's Avatar" width="200" style="border-radius: 10px; border: 2px solid #8B5CF6;" />
+      </td>
+      <td>
+        <h2>💫 About Me</h2>
+        <ul>
+          <li>🎓 <b>Student at 42 School</b></li>
+          <li>🐍 <b>Currently focused on:</b> C and Python</li>
+          <li>🧠 <b>Exploring:</b> Artificial Intelligence Algorithms, Object-Oriented Programming and Database Architecture</li>
+          <li>🚀 <b>Current Project:</b> <code>Call Me Maybe</code> (Progress: 22% of Common Core completed)</li>
+          <li>📬 <b>You can reach me on:</b> <br>
+            <a href="mailto:janmazon07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-top: 5px;" /></a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -58,11 +65,38 @@ Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
-
-| ⚙️<br>Languages | 🔧<br>Systems | 🧠<br>Concepts | 🛠️<br>Tools |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br><img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white" /> | <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=jupyter&logoColor=white" /><br><img src="https://img.shields.io/badge/Concurrency-0052CC?style=flat-square" /><br><img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
+<div align="center">
+  <h2>🛠️ Tech Stack & Toolkit</h2>
+  
+  <table>
+    <tr>
+      <th align="center">⚙️<br>Languages</th>
+      <th align="center">🔧<br>Systems</th>
+      <th align="center">🧠<br>Concepts</th>
+      <th align="center">🛠️<br>Tools</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=jupyter&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Concurrency-0052CC?style=flat-square" /><br>
+        <img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
