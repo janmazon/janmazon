@@ -13,7 +13,7 @@
 
 * 🎓 **Student at 42 School** 
 * 🐍 **Currently focused on:** C and Python
-* 🧠 **Exploring:** Artificial Intelligence Algorithms, Object-Oriented Programming (C++ & Python), and Database Architecture
+* 🧠 **Exploring:** Artificial Intelligence Algorithms, Object-Oriented Programming, and Database Architecture
 * 🚀 **Current Project:** `Call Me Maybe` (Progress: 22% of Common Core completed)
 * 📬 **You can reach me on:** 
   <a href="mailto:janmazon07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
