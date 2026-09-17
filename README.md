@@ -19,7 +19,7 @@
           <li>🧠 <b>Exploring:</b> Artificial Intelligence Algorithms, Object-Oriented Programming and Database Architecture</li>
           <li>🚀 <b>Current Project:</b> <code>Call Me Maybe</code> (Progress: 22% of Common Core completed)</li>
           <li>📬 <b>You can reach me on:</b> <br>
-            <a href="mailto:janmazon07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-top: 5px;" /></a>
+            <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-top: 5px;" /></a>
           </li>
         </ul>
       </td>
@@ -40,7 +40,7 @@ Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
 
 🚀 **Highlights:**
 
-* ✅ **19** validated projects
+* ✅ **21** validated projects
 * ⏱️ **668+ hours** of rigorous coursework
 
 <details>
@@ -184,8 +184,9 @@ Click any badge below to explore my projects, documentation, notes, and learning
 
 ---
 
-## 🐍 Contribution Snake
+## 🏗️ Commit Architecture
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/janmazon/janmazon/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- Reemplaza la serpiente por la ciudad isométrica en 3D -->
+  <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/github-contribution-grid-snake.svg" alt="Isometric Commits" />
 </div>
