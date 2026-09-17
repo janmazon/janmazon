@@ -2,14 +2,16 @@ name: Generate Isometric Commits
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Se actualiza a medianoche
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Esto soluciona el Error 128 de permisos
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Actualizado para evitar el warning de Node
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
