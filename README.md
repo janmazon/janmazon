@@ -179,13 +179,3 @@ Click any badge below to explore my projects, documentation, notes, and learning
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janmazon&theme=dark&hide_border=true&background=161b22&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 </div>
-
-<br>
-
----
-
-## 🏗️ Commit Architecture
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/profile-3d-contrib/profile-green-animate.svg" alt="Isometric Commits" />
-</div>
