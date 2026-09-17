@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/janmazon/janmazon/main/arkanoid.mp4" width="800" autoplay loop muted playsinline style="border-radius: 10px; border: 2px solid #8B5CF6;"></video>
+  <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/arkanoid.gif" alt="Intro Arkanoid" style="border-radius: 10px; border: 2px solid #8B5CF6;" />
 </div>
 
 <br>
