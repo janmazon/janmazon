@@ -6,26 +6,21 @@
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <img src="https://raw.githubusercontent.com/janmazon/janmazon/main/me.jpeg" alt="Janire's Avatar" width="200" style="border-radius: 10px; border: 2px solid #8B5CF6;" />
-      </td>
-      <td>
-        <h2>💫 About Me</h2>
-        <ul>
-          <li>🎓 <b>Student at 42 School</b></li>
-          <li>🐍 <b>Currently focused on:</b> C and Python</li>
-          <li>🧠 <b>Exploring:</b> Artificial Intelligence Algorithms, Object-Oriented Programming and Database Architecture</li>
-          <li>🚀 <b>Current Project:</b> <code>Call Me Maybe</code> (Progress: 22% of Common Core completed)</li>
-          <li>📬 <b>You can reach me on:</b> <br>
-            <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-top: 5px;" /></a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <video src="https://raw.githubusercontent.com/janmazon/janmazon/main/arkanoid.mp4" width="800" autoplay loop muted playsinline style="border-radius: 10px; border: 2px solid #8B5CF6;"></video>
 </div>
+
+<br>
+
+---
+
+## 💫 About Me
+
+* 🎓 **Student at 42 School** 
+* 🐍 **Currently focused on:** C and Python
+* 🧠 **Exploring:** Artificial Intelligence Algorithms, Object-Oriented Programming and Database Architecture
+* 🚀 **Current Project:** `Call Me Maybe` (Progress: 22% of Common Core completed)
+* 📬 **You can reach me on:** <br>
+  <a href="mailto:janmazon07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-top: 5px;" /></a>
 
 <br>
 
