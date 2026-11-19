@@ -15,11 +15,11 @@
 
 ## 💫 About Me
 
-* 🎓 **Student at 42 School** 
-* 🐍 **Currently focused on:** C and Python
-* 🧠 **Exploring:** Artificial Intelligence Algorithms, Object-Oriented Programming and Database Architecture
-* 🚀 **Current Project:** `Call Me Maybe` (Progress: 22% of Common Core completed)
-* 📬 **You can reach me on:** <br>
+- 🎓 **Student at 42 Urduliz Bizkaia** (Level 4.31)
+- 🐍 **Currently focused on:** C, Python, Concurrency & Networking
+- 🧠 **Exploring:** RAG Architectures, LLM Function Calling, Object-Oriented Programming & Graph Algorithms
+- 🚀 **Current Projects:** `RAG against the machine` & `Pac-Man` (Progress: 36% of Common Core completed)
+- 📬 **You can reach me on:** <br>
   <a href="mailto:janmazon07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-top: 5px;" /></a>
 
 <br>
@@ -28,31 +28,41 @@
 
 ## 📊 42 Stats & Curriculum
 
-* 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
-* 📈 **Common Core Completion:** 22% 
+- 🏫 **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸
+- ⭐ **Current Level:** 4.31
+- 📈 **Common Core Completion:** 36%
 
-Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
+Progress: [████████▒▒▒▒▒▒▒▒▒▒▒▒▒] 36%
 
 🚀 **Highlights:**
 
-* ✅ **21** validated projects
-* ⏱️ **668+ hours** of rigorous coursework
+- ✅ **21** validated projects + **3** Exam Ranks passed (`02`, `03` & `04`)
+- ⏱️ **822 hours** of rigorous coursework (750H in projects + 72H in exams)
 
 <details>
 <summary>👉 <b>Click to view my 42 Milestones & Projects</b> 👈</summary>
 
 <br>
 
-**💻 Core Projects:**
-* `Codexion` (80H) - Concurrency, Threads & Mutexes
-* `Fly-in` (120H) - Object-Oriented Pathfinding & Graph Algorithms
-* `A-Maze-ing` (50H) - Graphics, UI & Maze Generation
-* `push_swap` (70H) - Data Structures (Stacks) & Optimization
-* `Born2beroot` (50H) - Virtualization & System Administration
-* `Libft`, `ft_printf`, `get_next_line` (180H) - C Standard Library Fundamentals
+**🚧 Currently in Progress:**
+- `RAG against the machine` (150H) - Retrieval-Augmented Generation, Vector Databases & LLMs
+- `Pac-Man` (150H) - Object-Oriented Programming, Graphics & Game Loop Architecture
+
+**💻 Core Projects Validated:**
+- `Call Me Maybe` (80H) - LLM Function Calling & Constrained Decoding (JSON)
+- `NetPractice` (50H) - TCP/IP Networking, Subnetting, Routing & OSI Layers
+- `Codexion` (80H) - Concurrency, POSIX Threads, Mutexes & Scheduling (FIFO/EDF)
+- `Fly-in` (120H) - Object-Oriented Pathfinding & Dynamic Graph Algorithms
+- `A-Maze-ing` (50H) - Graphics, UI & Maze Generation
+- `Born2beroot` (50H) - Virtualization & Linux System Administration
+- `push_swap` (70H) - Data Structures (Stacks) & Sorting Optimization
+- `Libft`, `ft_printf`, `get_next_line` (180H) - C Standard Library Fundamentals
 
 **🐍 Python Advanced Bootcamp:**
-* 11 Modules Completed (65H total) covering OOP, Data Pipelines, Virtual Environments, Pydantic, and Functional Programming.
+- 11 Modules Completed (70H total) covering OOP, Data Pipelines, Virtual Environments (Poetry/pip), Pydantic Validation, and Functional Programming.
+
+**🏆 Practical Exams:**
+- `Exam Rank 02`, `Exam Rank 03` & `Exam Rank 04` (72H total) - Passed
 
 </details>
 
@@ -66,7 +76,7 @@ Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
   <table>
     <tr>
       <th align="center">⚙️<br>Languages</th>
-      <th align="center">🔧<br>Systems</th>
+      <th align="center">🔧<br>Systems & Net</th>
       <th align="center">🧠<br>Concepts</th>
       <th align="center">🛠️<br>Tools</th>
     </tr>
@@ -78,15 +88,19 @@ Progress: [█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 22%
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
-        <img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white" />
+        <img src="https://img.shields.io/badge/Unix-000000?style=flat-square&logo=unix&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=jupyter&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Concurrency-0052CC?style=flat-square" /><br>
+        <img src="https://img.shields.io/badge/LLMs_%26_RAG-8B5CF6?style=flat-square" /><br>
         <img src="https://img.shields.io/badge/OOP-8A2BE2?style=flat-square" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
       </td>
     </tr>
