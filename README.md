@@ -1,6 +1,6 @@
 <!-- Título animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=I'm+Janire+Mazon;Software+Developer;42+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=I'm+Janire+Camarero;Software+Developer;42+Student" alt="Typing SVG" />
 </h1>
 
 <br>
