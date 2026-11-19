@@ -32,8 +32,8 @@ www.linkedin.com/in/janire-camarero-mazón-738130451"><img src="https://img.shie
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="[https://github.com/janmazon/Call_Me_Maybe">Call Me Maybe</a></h3>
+<td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/janmazon/Call_Me_Maybe">Call Me Maybe</a></h3>
       <p>LLM function-calling engine translating natural language into typed tool calls using <b>constrained decoding</b> to guarantee valid JSON outputs with a 0.5B parameter model.</p>
       <p><code>Python</code> <code>LLMs</code> <code>Pydantic</code> <code>JSON</code></p>
     </td>
